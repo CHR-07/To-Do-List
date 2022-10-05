@@ -1,0 +1,26 @@
+.todo-finished {
+    text-decoration: line-through;
+    color: rgba(156, 23, 23, 0.863);
+}
+
+body {
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #2c3e50, #4ca1af);
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #cc6472e3;
+}
